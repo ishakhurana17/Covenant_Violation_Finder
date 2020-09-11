@@ -1,0 +1,2 @@
+# Covenant_Violation_Finder
+ Collect covenant violation data for the 10-Qs and 10-Ks from SEC EDGAR. Conduct textual analysis to identify filings with possible covenant violation events. Identify the occurrence of a covenant violation, collect a dummy variable that indicates a company’s debt covenant violations. Used the covenant violation data to generate descriptive statistics and correlations to examine the determinants of covenant violations.
